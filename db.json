@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "title": "lorem",
+      "body": "Lorem ipsumhgvfcfvg",
+      "categorie": "1",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "title": "avashdbsd",
+      "body": "dhdejkjak",
+      "categorie": "1",
+      "userId": "1",
+      "id": 2
+    },
+    {
+      "title": "ksfdlkfd",
+      "body": "fdlfdsmfldsmfsdklfmd",
+      "categorie": "1",
+      "userId": "1",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "title": "lorem",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "postId": "1",
+      "userId": "1",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "ahmad",
+      "email": "a@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mohammed",
+      "email": "m@email.com",
+      "id": 2
+    },
+    {
+      "name": "jegr",
+      "email": "j@yahoo.com",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "android"
+    },
+    {
+      "id": 2,
+      "name": "ios"
+    },
+    {
+      "id": 3,
+      "name": "web"
+    },
+    {
+      "id": 4,
+      "name": "it"
+    }
+  ]
+}
